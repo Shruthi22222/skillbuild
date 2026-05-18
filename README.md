@@ -11,7 +11,7 @@ The project is designed to promote Karnataka’s art, culture, traditions, and h
 - Responsive Android design
 
 ## Technologies Used
-- Kotlin
+- Kotlin and java
 - Android Studio
 - XML
 - Firebase
